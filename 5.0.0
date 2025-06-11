@@ -1,0 +1,17 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Collecting pyinstaller
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/7c/dd/bb8d5bcb0592f7f5d454ad308051d00ed34f8b08d5003400b825cfe35513/pyinstaller-6.14.1-py3-none-win_amd64.whl (1.4 MB)
+     ---------------------------------------- 1.4/1.4 MB 6.4 MB/s eta 0:00:00
+Requirement already satisfied: setuptools>=42.0.0 in c:\users\yangx\appdata\roaming\python\python310\site-packages (from pyinstaller) (75.6.0)
+Collecting altgraph (from pyinstaller)
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/4d/3f/3bc3f1d83f6e4a7fcb834d3720544ca597590425be5ba9db032b2bf322a2/altgraph-0.17.4-py2.py3-none-any.whl (21 kB)
+Collecting pefile!=2024.8.26,>=2022.5.30 (from pyinstaller)
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/55/26/d0ad8b448476d0a1e8d3ea5622dc77b916db84c6aa3cb1e1c0965af948fc/pefile-2023.2.7-py3-none-any.whl (71 kB)
+Collecting pywin32-ctypes>=0.2.1 (from pyinstaller)
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/de/3d/8161f7711c017e01ac9f008dfddd9410dff3674334c233bde66e7ba65bbf/pywin32_ctypes-0.2.3-py3-none-any.whl (30 kB)
+Collecting pyinstaller-hooks-contrib>=2025.4 (from pyinstaller)
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/0c/2c/b4d317534e17dd1df95c394d4b37febb15ead006a1c07c2bb006481fb5e7/pyinstaller_hooks_contrib-2025.5-py3-none-any.whl (437 kB)
+Requirement already satisfied: packaging>=22.0 in c:\users\yangx\.conda\envs\flasktest_yolov5\lib\site-packages (from pyinstaller) (24.2)
+Installing collected packages: altgraph, pywin32-ctypes, pyinstaller-hooks-contrib, pefile, pyinstaller
+
+Successfully installed altgraph-0.17.4 pefile-2023.2.7 pyinstaller-6.14.1 pyinstaller-hooks-contrib-2025.5 pywin32-ctypes-0.2.3
